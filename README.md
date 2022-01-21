@@ -8,7 +8,7 @@
 
 ## About <a name = "about"></a>
 
-This repository contains a set of reusable reactjs compoents that may suitable for any React Projec.
+This repository contains a set of reusable reactjs compoents that may suitable for any React Project.
 
 ## Getting Started <a name = "getting_started"></a>
 
