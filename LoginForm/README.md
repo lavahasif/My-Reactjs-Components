@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="./slidingform.png" alt="Project logo"></a>
+ <img src="https://raw.githubusercontent.com/manojap/My-Reactjs-Components/master/LoginForm/slidingForm.png" alt="Project logo"></a>
 </p>
 <h3 align="center">Sliding Login Signup Form</h3>
 
